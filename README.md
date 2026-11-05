@@ -7,4 +7,4 @@ One-page post-election thank-you site for helenafoulkes.com.
 - `assets/img/`: Helena cutout (hero) and park photo (blurred hero background)
 
 Static HTML/CSS, no build step. Host on GitHub Pages from `main` (root).
-Remove the `noindex` meta tag in `index.html` before go-live.
+`privacy-policy/` holds the campaign privacy policy. `404.html` sends old plan links to the transition site.
